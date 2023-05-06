@@ -1,0 +1,1 @@
+DEFAULT_QUERY_TEXT = "Summarize the difference between the primary text and the secondary text."
